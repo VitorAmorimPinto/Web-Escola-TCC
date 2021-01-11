@@ -1,0 +1,133 @@
+/* Tela login */
+body{
+	
+	
+}
+.titulo-logo{
+	font-family: Bradley Hand, cursive;
+}
+.font-carousel{
+	font-family:"Arial Black", Gadget, sans-serif;
+}
+.jb-style{ 
+	width: 40%;
+	margin-top: 5%;
+	margin-left: 30%;
+	
+}
+.jb-style1{ 
+	width: 40%;	
+	margin-left: 30%;
+}
+
+.align-center{
+	width:60%;
+	margin-left: 20%;
+}
+.fundo{
+	background-image: url("../img/papel-de-parede.jpg");
+	background-attachment: fixed;
+}
+.login{
+
+	padding: 2rem 1rem;
+  margin-bottom: 2rem;
+  background-color: #336699;
+  border-radius: 0.3rem;
+  opacity: 0.8;
+}
+@media (min-width: 576px) {
+	.login {
+	  padding: 4rem 2rem;
+	}
+  }
+  .btn-amarelo {
+	color: #212529;
+	background-color: #ffd480;
+	border-color: #ffd480;
+  }
+  
+  .btn-amarelo:hover {
+	color: #212529;
+	background-color: #e0a800;
+	border-color: #d39e00;
+  }	
+  .imagens{
+	  width:80%;
+	  height:80%;
+  }
+/* tela inicial ADM */
+.fundo-adm{
+	background-color: #0077b3 ;
+}
+.navbar-menu{
+	color: #0077b3;
+
+  }
+  .bg-menu {
+	background-color: #005c99 !important;
+  }
+  
+  a.bg-menu:hover, a.bg-menu:focus,
+  button.bg-menu:hover,
+  button.bg-menu:focus {
+	background-color: white !important;
+  }
+  
+  .jumbotron-tela-inicial {
+	padding: 2rem 1rem;
+	/* margin-bottom: 2rem; */
+	background-color: #bad8f7;
+	border-radius: 0.3rem;
+	opacity: 0.8;
+  }
+  
+  @media (min-width: 576px) {	
+	.jumbotron-tela-inicial {
+	  padding: 4rem 2rem;
+	}
+  }
+  .jumbotron-sub-menu {
+	padding: 1rem 1rem 2rem 1rem;	
+	/* margin-bottom: 2rem; */
+	background-color: #98c6f3;
+	border-radius: 0.3rem;
+	opacity: 0.8;
+	height: 100vh;
+  }
+  
+  @media (min-width: 576px) {	
+	.jumbotron-sub-menu {
+	  padding: 1rem 2rem 4rem 2rem;
+
+	}
+  }
+  .bg-sub-menu {
+	background-color: #bad8f7 !important;
+  }
+  .jumbotron-lancar-notas {
+	padding: 2rem 1rem;
+	/* margin-bottom: 2rem; */
+	background-color: #bad8f7;
+	border-radius: 0.3rem;
+	opacity: 0.8;
+  }
+  
+  @media (min-width: 576px) {	
+	.jumbotron-lancar-notas {
+		padding: 1rem 2rem 2rem 2rem;	
+
+	}
+  }
+
+  .nav-link-turmas:hover, .nav-link-turmas:focus {
+	text-decoration: none;
+	background-color:#35c5b9;	
+  }
+.bg-list{
+	background-color:#638eb9;
+}
+.ml-menu{
+	margin-left:75%;
+
+}
